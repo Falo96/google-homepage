@@ -1,0 +1,1 @@
+This project consists on building a web page to better understand HTML and CSS.
